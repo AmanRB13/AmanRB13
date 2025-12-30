@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am third year computer engineering student at Ioe, pulchowk campus 
 
 <!--
 **AmanRB13/AmanRB13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
