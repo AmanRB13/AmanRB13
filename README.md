@@ -61,9 +61,3 @@ Institute of Engineering (IOE), Pulchowk Campus — Third year
 
 ---
 
-## Contact
-- GitHub: https://github.com/AmanRB13
-- Email: amanranabhat30@gmail.com
-- LinkedIn: https://www.linkedin.com/in/aman-ranabhat-729297262/
-
----
