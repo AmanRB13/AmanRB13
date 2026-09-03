@@ -1,4 +1,4 @@
-# Aman R. Bhattarai 👋
+# Aman Ranabhat
 Third-year Computer Engineering student at the Institute of Engineering (IOE), Pulchowk Campus
 
 ---
