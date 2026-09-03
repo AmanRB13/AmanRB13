@@ -19,7 +19,7 @@ I build practical software and mobile applications, with hands-on experience in 
 ---
 
 💻 Tech Stack:
-JavaScript • Python • TypeScript • Dart (Flutter) • C++ • PHP • Django • Django REST • React • Next.js • Node.js • Express.js • SQLite / SQL (DB fundamentals) • Postgres (common with Django) • MongoDB (if used) • OpenCV • NumPy • Pandas • Matplotlib • LangChain / LLM tooling
+JavaScript • Python • TypeScript • Dart (Flutter) • C++ • PHP • Django • Django REST • React • SQLite / SQL  • Postgres• MongoDB • OpenCV • NumPy • Pandas • Matplotlib • LangChain / LangGraph
 
 ---
 
