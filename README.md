@@ -57,7 +57,7 @@ Institute of Engineering (IOE), Pulchowk Campus — Third year
 ## What I’m Learning
 - System design and scalable backend services
 - Advanced Flutter patterns and production mobile architecture
-- Agentic AI, LLMs, RAG, and LangChain
+- Agentic AI, LLMs, RAG,  LangGraph
 
 ---
 
